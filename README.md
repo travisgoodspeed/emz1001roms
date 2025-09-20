@@ -8,9 +8,12 @@ them.
 To decode bits to bytes, we will use
 [MaskRomTool](https://github.com/travisgoodspeed/maskromtool/).  To
 disassemble the ROM, we will use
-[GoodASM](https://github.com/travisgoodspeed/goodasm/).
+[GoodASM](https://github.com/travisgoodspeed/goodasm/).  A Verilog recreation
+of the chip is available as [sys_emz1001](https://github.com/zpekic/sys_emz1001).
 
-Greetings to the Computer History Museum in Ljubljana./x
+Greetings to the [Computer History
+Museum](https://www.racunalniski-muzej.si/en/the-latest-findings-about-the-4-bit-iskra-emz-1001-part-2/)
+in Ljubljana.
 
 Cheers from Novi Sad,
 
